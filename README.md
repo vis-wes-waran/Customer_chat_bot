@@ -1,3 +1,1 @@
-# place
 
-place recognition system
